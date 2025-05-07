@@ -29,8 +29,6 @@ Atualmente desenvolvo projetos como o **Sistema RH em Delphi**, com controle com
 #### [Sistema RH Delphi](https://github.com/yzzyhz/yzzyhz-sistema-rh-delphi)
 > Sistema completo de Recursos Humanos criado em Delphi. Profissional, limpo e com banco de dados SQL.
 
-#### [Automação de Links Shopee](https://github.com/yzzyhz)
-> Script que gera automaticamente links de afiliado Shopee a partir de produtos populares.
 
 ---
 
@@ -48,7 +46,7 @@ Atualmente desenvolvo projetos como o **Sistema RH em Delphi**, com controle com
 ### Contato
 
 - **Email:** zeus432hz@gmail.com
-- **LinkedIn:** (adicione se tiver)
+
 - **Portfólio:** Em breve
 
 ---
