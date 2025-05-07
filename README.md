@@ -47,7 +47,7 @@ Atualmente desenvolvo projetos como o **Sistema RH em Delphi**, com controle com
 
 ### Contato
 
-- **Email:** luizdevrh@gmail.com
+- **Email:** zeus432hz@gmail.com
 - **LinkedIn:** (adicione se tiver)
 - **Portfólio:** Em breve
 
